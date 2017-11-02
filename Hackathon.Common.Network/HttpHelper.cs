@@ -63,10 +63,12 @@ namespace Hackathon.Common.Network
                 paramsTemp = paramsTemp.Remove(paramsTemp.Length - 1);
                 requestUrl += HttpUtility.UrlEncode(paramsTemp);
             }
+            //ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(requestUrl);
+            //request.Accept = "application/json";
+            //request.Headers.Add("X-IBM-Client-Id", "45703946-bcba-4411-9b24-ade454a1d3cf");
             HttpWebResponse response = (HttpWebResponse)request.GetResponse();
-            string responseString = new StreamReader(response.GetResponseStream()).ReadToEnd();
-
+            string responseString = new StreamReader(response.GetResponseStream(), Encoding.UTF8).ReadToEnd();
             return responseString;
         }
     }

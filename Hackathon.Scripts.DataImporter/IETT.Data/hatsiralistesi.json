@@ -1,0 +1,412 @@
+﻿[
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105551'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'TOPKAPI'",
+        "Enlem": "41.021050",
+        "Boylam": "28.927030",
+        "Durak Sirasi": "1",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'303281'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'BEŞİKTAŞ İSKELE'",
+        "Enlem": "41.041530",
+        "Boylam": "29.007250",
+        "Durak Sirasi": "1",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105571'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'PAZARTEKKE'",
+        "Enlem": "41.016980",
+        "Boylam": "28.929400",
+        "Durak Sirasi": "2",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'114991'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'BEŞİKTAŞ MEYDAN'",
+        "Enlem": "41.043530",
+        "Boylam": "29.006930",
+        "Durak Sirasi": "2",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105581'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'İSTANBUL TIP FAKÜLTE'",
+        "Enlem": "41.015820",
+        "Boylam": "28.931730",
+        "Durak Sirasi": "3",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'112022'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'AKARETLER'",
+        "Enlem": "41.041650",
+        "Boylam": "29.003940",
+        "Durak Sirasi": "3",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105591'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'ÇAPA'",
+        "Enlem": "41.013310",
+        "Boylam": "28.936870",
+        "Durak Sirasi": "4",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'301381'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'KABATAŞ'",
+        "Enlem": "41.034700",
+        "Boylam": "28.992830",
+        "Durak Sirasi": "4",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105691'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'FINDIKZADE'",
+        "Enlem": "41.012020",
+        "Boylam": "28.940200",
+        "Durak Sirasi": "5",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'120812'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'FINDIKLI'",
+        "Enlem": "41.031070",
+        "Boylam": "28.988790",
+        "Durak Sirasi": "5",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105453'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'HASEKİ'",
+        "Enlem": "41.010560",
+        "Boylam": "28.944250",
+        "Durak Sirasi": "6",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117392'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'SALIPAZARI'",
+        "Enlem": "41.028790",
+        "Boylam": "28.986180",
+        "Durak Sirasi": "6",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105701'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'YUSUFPAŞA'",
+        "Enlem": "41.009650",
+        "Boylam": "28.947500",
+        "Durak Sirasi": "7",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117402'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'TOPHANE'",
+        "Enlem": "41.026760",
+        "Boylam": "28.979950",
+        "Durak Sirasi": "7",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105732'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'PERTEVNİYAL V.SULTAN'",
+        "Enlem": "41.011690",
+        "Boylam": "28.953510",
+        "Durak Sirasi": "8",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117411'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'KEMERALTI'",
+        "Enlem": "41.024980",
+        "Boylam": "28.977040",
+        "Durak Sirasi": "8",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105742'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'İST.BÜYÜKŞEHİR BELED'",
+        "Enlem": "41.014240",
+        "Boylam": "28.954210",
+        "Durak Sirasi": "9",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117423'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'KARAKÖY'",
+        "Enlem": "41.022150",
+        "Boylam": "28.974510",
+        "Durak Sirasi": "9",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105752'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'VEFA'",
+        "Enlem": "41.018160",
+        "Boylam": "28.957730",
+        "Durak Sirasi": "10",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105291'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'EMİNÖNÜ TRANSİT'",
+        "Enlem": "41.018680",
+        "Boylam": "28.968060",
+        "Durak Sirasi": "10",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105762'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'UNKAPANI'",
+        "Enlem": "41.020990",
+        "Boylam": "28.959880",
+        "Durak Sirasi": "11",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'107732'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'HALİÇ METRO'",
+        "Enlem": "41.020310",
+        "Boylam": "28.964000",
+        "Durak Sirasi": "11",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'107731'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'HALİÇ METRO'",
+        "Enlem": "41.019950",
+        "Boylam": "28.964130",
+        "Durak Sirasi": "12",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105767'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'UNKAPANI'",
+        "Enlem": "41.020400",
+        "Boylam": "28.958970",
+        "Durak Sirasi": "12",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'301051'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'EMİNÖNÜ KANTARCILAR'",
+        "Enlem": "41.018770",
+        "Boylam": "28.966010",
+        "Durak Sirasi": "13",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105751'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'VEFA'",
+        "Enlem": "41.017620",
+        "Boylam": "28.957020",
+        "Durak Sirasi": "13",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117421'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'KARAKÖY'",
+        "Enlem": "41.022160",
+        "Boylam": "28.975050",
+        "Durak Sirasi": "14",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105741'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'İST.BÜYÜKŞEHİR BELED'",
+        "Enlem": "41.015010",
+        "Boylam": "28.954660",
+        "Durak Sirasi": "14",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117401'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'TOPHANE'",
+        "Enlem": "41.026640",
+        "Boylam": "28.980380",
+        "Durak Sirasi": "15",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105731'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'PERTEVNİYAL V.SULTAN'",
+        "Enlem": "41.011810",
+        "Boylam": "28.953120",
+        "Durak Sirasi": "15",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'117391'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'SALIPAZARI'",
+        "Enlem": "41.027890",
+        "Boylam": "28.984110",
+        "Durak Sirasi": "16",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105702'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'YUSUFPAŞA'",
+        "Enlem": "41.010070",
+        "Boylam": "28.948030",
+        "Durak Sirasi": "16",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'120811'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'FINDIKLI'",
+        "Enlem": "41.031510",
+        "Boylam": "28.989760",
+        "Durak Sirasi": "17",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105454'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'HASEKİ'",
+        "Enlem": "41.010870",
+        "Boylam": "28.944540",
+        "Durak Sirasi": "17",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'302381'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'KABATAŞ'",
+        "Enlem": "41.034000",
+        "Boylam": "28.992550",
+        "Durak Sirasi": "18",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105692'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'FINDIKZADE'",
+        "Enlem": "41.012170",
+        "Boylam": "28.940190",
+        "Durak Sirasi": "18",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105592'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'ÇAPA'",
+        "Enlem": "41.014630",
+        "Boylam": "28.935260",
+        "Durak Sirasi": "19",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'303281'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'BEŞİKTAŞ İSKELE'",
+        "Enlem": "41.041530",
+        "Boylam": "29.007250",
+        "Durak Sirasi": "20",
+        "Guzergah Kodu": "'28T_G_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105582'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'İSTANBUL TIP FAKÜLTE'",
+        "Enlem": "41.016390",
+        "Boylam": "28.931400",
+        "Durak Sirasi": "20",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105572'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'PAZARTEKKE'",
+        "Enlem": "41.017470",
+        "Boylam": "28.929120",
+        "Durak Sirasi": "21",
+        "Guzergah Kodu": "'28T_D_D0'"
+    },
+    {
+        "Hat Kodu": "'28T'",
+        "Durak Kodu": "'105551'",
+        "Hat Adi": "'TOPKAPI - BEŞİKTAŞ'",
+        "Durak Adi": "'TOPKAPI'",
+        "Enlem": "41.021050",
+        "Boylam": "28.927030",
+        "Durak Sirasi": "22",
+        "Guzergah Kodu": "'28T_D_D0'"
+    }
+]

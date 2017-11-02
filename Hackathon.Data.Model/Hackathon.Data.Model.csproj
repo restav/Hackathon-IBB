@@ -40,6 +40,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TKM\AnnouncementModel.cs" />
+    <Compile Include="TKM\CameraBase.cs" />
+    <Compile Include="TKM\CameraImage.cs" />
+    <Compile Include="TKM\CameraModel.cs" />
+    <Compile Include="TKM\FlowResponse.cs" />
+    <Compile Include="TKM\FlowResponseList.cs" />
+    <Compile Include="TKM\FusedDataManuelSpeed.cs" />
+    <Compile Include="TKM\ParkInfo.cs" />
+    <Compile Include="TKM\ParkInfoBase.cs" />
+    <Compile Include="TKM\ParkingAps.cs" />
+    <Compile Include="TKM\PredictionDataModel.cs" />
+    <Compile Include="TKM\RectangleBoundary.cs" />
+    <Compile Include="TKM\RoadSegment.cs" />
+    <Compile Include="TKM\SignalFailureWriteModel.cs" />
+    <Compile Include="TKM\TrafficDataModel.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

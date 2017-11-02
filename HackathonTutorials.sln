@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Scripts.DataImpor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Data.Model", "Hackathon.Data.Model\Hackathon.Data.Model.csproj", "{EFC107A4-DB24-4E31-A158-0C6FD0A67568}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.Core.LogicLayer", "Hackathon.Core.LogicLayer\Hackathon.Core.LogicLayer.csproj", "{6C98F2A2-4604-4542-AACF-C66F7F945737}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,10 @@ Global
 		{EFC107A4-DB24-4E31-A158-0C6FD0A67568}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFC107A4-DB24-4E31-A158-0C6FD0A67568}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFC107A4-DB24-4E31-A158-0C6FD0A67568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C98F2A2-4604-4542-AACF-C66F7F945737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C98F2A2-4604-4542-AACF-C66F7F945737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C98F2A2-4604-4542-AACF-C66F7F945737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C98F2A2-4604-4542-AACF-C66F7F945737}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,5 +90,6 @@ Global
 		{3CB2DD0C-FD4F-4483-A262-3F9CC7A45146} = {979317AA-B5CB-4FE1-B97E-C4CBAE036E2A}
 		{001B40B5-472C-4A3F-B8D0-A25A1416397E} = {F68AC694-E9C2-4466-B6E6-AE8D5BDB2B9D}
 		{EFC107A4-DB24-4E31-A158-0C6FD0A67568} = {03465A86-3C33-45BC-9D1D-320CD144798E}
+		{6C98F2A2-4604-4542-AACF-C66F7F945737} = {AFBEFF81-6919-4A10-8A80-B55D2048C728}
 	EndGlobalSection
 EndGlobal

@@ -45,6 +45,7 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -57,6 +58,20 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Hackathon.Common.Network\Hackathon.Common.Network.csproj">
+      <Project>{c71492b4-1057-4049-bbff-d2a0e969dff7}</Project>
+      <Name>Hackathon.Common.Network</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hackathon.Common.Utility\Hackathon.Common.Utility.csproj">
+      <Project>{85891b0c-69b2-4336-981a-d936144ab575}</Project>
+      <Name>Hackathon.Common.Utility</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Hackathon.Data.Model\Hackathon.Data.Model.csproj">
+      <Project>{efc107a4-db24-4e31-a158-0c6fd0a67568}</Project>
+      <Name>Hackathon.Data.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
